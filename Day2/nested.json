@@ -1,0 +1,10 @@
+{
+  "user": {
+    "name": "Saksham",
+    "age": 25,
+    "address": {
+      "city": "Delhi",
+      "country": "India"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Saksham",
+  "age": 25,
+  "skills": ["Python", "Automation"],
+  "address": {
+    "city": "Delhi",
+    "country": "India"
+  }
+}
